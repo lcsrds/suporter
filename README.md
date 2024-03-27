@@ -1,8 +1,4 @@
-# React + Vite
+# 🛠 Suporter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esse projeto foi criado para por em pratica o que estou aprendendo no curso da Rocketseat.
+Talvez em algum momento eu faça projetos apenas como "show off", mas hoje vejo mais sentido em fazer projetos que venham solucionar problemas ou agilizar tarefas que encotro no meu dia a dia. O Suporter tem como ideia central auxiliar minhas atividades e de meus colegas no setor de suporte.
